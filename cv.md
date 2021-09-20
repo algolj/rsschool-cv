@@ -2,16 +2,34 @@
 
 ### Junior Frontend Developer <sup>soon</sup>
 
-<hr/>
+---
 
 ### My contact information:
 
-**Phone number &amp; WhatsApp:** [+7 (989) 624-65-78](tel:+79896246578)
-**Telegram:** [algolj](https://t.me/algolj)
-**LinkedIn:** [algolj](https://www.linkedin.com/in/algolj/)
-**Web-site:** [algolj.it](https://algolj.it)
-**E-mail:** [algolj@algolj.it](mailto:algolj@algolj.it)
-**Location:** Now I'm in Donetsk (Ukraine) ✈️ I want to move soon, but have not yet decided where exactly: Kyiv, Kharkiv, Lviv, Saint Petersburg, Krasnodar, Rostov on Don. There is a Permanent residency in Russia, so there are no problems with worker license.
+**Phone number &amp; WhatsApp:** [+7 (989) 624-65-78](tel:+79896246578)</br>
+**Telegram:** [algolj](https://t.me/algolj)</br>
+**LinkedIn:** [algolj](https://www.linkedin.com/in/algolj/)</br>
+**Web-site:** [algolj.it](https://algolj.it)</br>
+**E-mail:** [algolj@algolj.it](mailto:algolj@algolj.it)</br>
+**Location:** Now I'm in Donetsk ✈️ I want to move soon, but have not yet decided where exactly: Kyiv, Kharkiv, Lviv, Saint Petersburg, Krasnodar, Rostov on Don. There is a Permanent residency in Russia, so there are no problems with worker license.
+
+### Briefly About Myself
+
+Greetings, my name is Alexander, I am 24 years old. At the moment I work in a family business, but my soul is tempted to work by my master’s degree. Previously, I programmed purely for fun or to complete assignments at university. But I still want to start developing and working in commercial projects. And this is a completely different level of documentation, design, planning and code style. All this interests me very much.
+
+<details><summary>Real reasons for my participation in JavaScript / Front-end 2021Q3</summary>Already after a month of successful graduation from the magistracy, something wrong began to happen to me. There was a strong need to help someone simplify math calculations by writing a couple of functions, and I also became addicted to programming streams. I had to go to a qualified physician to find out what the problem was. After I got tested, he told me:
+
+> -Hmm ... I see such bad analyzes for the second time in my many years of practice.
+
+In the body, hormones of such groups as: <abbr title='Do a crutch, just to make it work!'>DcJMW</abbr>, <abbr title="I don't know why it works, but it does!">IdkWiWiD</abbr> and <abbr title='Hmm ... Is there a bug in my code or is it in the compiler?'>ITBiMCoC</abbr> My doctor prescribed treatment in the form of 2-3 tasks on Codewars per week, but this only helped to stop the progressive drop in indicators, yet not to get better. Seeing this, he’d said:
+
+> -Things are bad, boy, you won't last half a year at this rate. You need to ... Hell, I didn't think I would ever do this again.
+
+He took a business card <sup>[proof](https://algolj.it/business-cаrd.jpg)</sup> from a drawer and handed it to me.
+
+> -It's some sort of an anonymous programmers club, I think they can help you. Every day on their courses, the tasks become more and more difficult. Only a few will reach the end. I can only wish you good luck.
+
+That’s how I decided to thoroughly study the JavaScript / Frontend 2021Q3 course, because I don’t see the other option.</details>
 
 ### Education
 
@@ -48,7 +66,7 @@
 ### I know and have worked with (skills)
 
 - HTML5;
-- CSS3 ( SCSS(SASS), Bootstrap, BEM methodology);
+- CSS3 ( SCSS (SASS), Bootstrap, BEM methodology);
 - JavaScript (Fundamentals, ES6+, DOM, JSON);
 - React (Redux);
 - Vue.JS (basic knowledge);
@@ -56,7 +74,7 @@
 - Git (basic knowledge);
 - SQL (PostgreSQL, SQLite, Access);
 - Java (basic knowledge);
-- Adobe Photoshop (little designer at heart), After Effects, Illustrator (here I made diploma icons[\*](#Education)), Lightroom;
+- Adobe Photoshop, After Effects, Illustrator (here I made diploma icons[\*](#Education)), Lightroom;
 - Figma;
 - Postman (basic knowledge).
 
@@ -70,12 +88,13 @@ Of course, even a third of frontend technologies cannot be well known and applie
 
 1. Web page with the calculation of estimates of the numerical characteristics of random variables.<details><summary>more detail</summary>Сonstruction of empirical laws of their distribution, statistical testing of the hypothesis about the law of distribution of a random variable using the asymmetry coefficient A and kurtosis E, statistical testing of the hypothesis about the law of distribution of random variables according to Pearson's criterion, statistical testing of the hypothesis about the equality of variances of two normal general populations, and correlation analysis. Used Google Charts and File API in the project. [Link to project.](http://algolj.it/MM)</br></br></details>
 2. Web page with image processing using Canvas.<details><summary>more detail</summary>Color to grayscale conversion, binarization, conversion to negative, logarithmic filter, mask filtering (noise reduction, noise generation, sharpening and contrast enhancement, low-frequency spatial filtering, median filtering). [Link to the report.](https://disk.yandex.ua/d/b4WYlNkTYr8GGQ)</br></br></details>
-3. Multithreaded Web scraping sites avito.ru, imdb.com using Cheerio and Puppeteer library. Text analysis, search engines technologies and Word2vec libraries.[\*](https://disk.yandex.ua/d/Wf95hkPNND1qgw 'Link to the report.')
+3. Multithreaded Web scraping sites avito.ru, imdb.com using Cheerio and Puppeteer library. Text analysis, search engines technologies and Word2vec libraries[\*](https://disk.yandex.ua/d/Wf95hkPNND1qgw 'Link to the report.').
 4. Calculation of the norm of the product of two square dense matrices of dimension NxN.<details><summary>more detail</summary>In single-threaded and multi-threaded mode, the calculation of the performance of the video card. Used libraries GPU.js and Blas.JS.</br></br></details>
 
 ### Small code from me
 
-#####[Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa 'link to kata')
+##### [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa 'link to kata')
+
 John and Mary want to travel between a few towns A, B, C ... Mary has on a sheet of paper a list of distances between these towns. ls = [50, 55, 57, 58, 60]. John is tired of driving and he says to Mary that he doesn't want to drive more than t = 174 miles and he will visit only 3 towns.
 
 Which distances, hence which towns, they will choose so that the sum of the distances is the biggest possible to please Mary and John?
@@ -123,7 +142,7 @@ return result || null;
 }
 ```
 
-###Languages
+### Languages
 
 - English <sup>A1</sup>
 - Russian <sup>native</sup>
