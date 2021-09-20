@@ -330,9 +330,9 @@ const postTime = () => {
 // notifies about a new message
 const bell = () => {
   setTimeout(() => {
-    postTime();
     document.querySelector('#sound1').play();
     setTimeout(() => document.querySelector('#sound2').play(), 150);
+    postTime();
   }, 200);
 };
 
@@ -456,8 +456,7 @@ const firstMessages = () => {
 setTimeout(firstMessages, 1000);
 
 //self-assessment of the project
-console.log(`
-Score: 133.5/ 150\n
+console.log(`Всего баллов: 133.5/ 150\n
 - [ x ] вёрстка валидная (10/10)
 - [ x ] вёрстка семантическая (20/20)
         Есть header, footer, main, article, section, nav, aside, h1, h2, h3
