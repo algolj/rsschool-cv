@@ -1,9 +1,11 @@
-#Alexnader Golovhcenko
-###Junior Frontend Developer <sup>soon</sup>
+# Alexnader Golovhcenko
+
+### Junior Frontend Developer <sup>soon</sup>
 
 <hr/>
 
-###My contact information:
+### My contact information:
+
 **Phone number &amp; WhatsApp:** [+7 (989) 624-65-78](tel:+79896246578)
 **Telegram:** [algolj](https://t.me/algolj)
 **LinkedIn:** [algolj](https://www.linkedin.com/in/algolj/)
@@ -70,3 +72,59 @@ Of course, even a third of frontend technologies cannot be well known and applie
 2. Web page with image processing using Canvas.<details><summary>more detail</summary>Color to grayscale conversion, binarization, conversion to negative, logarithmic filter, mask filtering (noise reduction, noise generation, sharpening and contrast enhancement, low-frequency spatial filtering, median filtering). [Link to the report.](https://disk.yandex.ua/d/b4WYlNkTYr8GGQ)</br></br></details>
 3. Multithreaded Web scraping sites avito.ru, imdb.com using Cheerio and Puppeteer library. Text analysis, search engines technologies and Word2vec libraries.[\*](https://disk.yandex.ua/d/Wf95hkPNND1qgw 'Link to the report.')
 4. Calculation of the norm of the product of two square dense matrices of dimension NxN.<details><summary>more detail</summary>In single-threaded and multi-threaded mode, the calculation of the performance of the video card. Used libraries GPU.js and Blas.JS.</br></br></details>
+
+### Small code from me
+
+#####[Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa 'link to kata')
+John and Mary want to travel between a few towns A, B, C ... Mary has on a sheet of paper a list of distances between these towns. ls = [50, 55, 57, 58, 60]. John is tired of driving and he says to Mary that he doesn't want to drive more than t = 174 miles and he will visit only 3 towns.
+
+Which distances, hence which towns, they will choose so that the sum of the distances is the biggest possible to please Mary and John?
+
+```Javascript
+  function chooseBestSum(t, k, ls) {
+  //create a variable that chronizes
+  //the result of calculations
+  let result = 0;
+  //exit the function if there is no correct input element
+  if(k > ls.length || k<=0 || t<=0) return null;
+
+//recursive function calculates the best route
+// st - index of the city in question to visit in the array
+// arr - an array with cities that are considered
+// for visiting on this passage
+let recurs = (st, arr) => {
+
+      //if there are enough cities to visit
+      if (arr.length == k){
+        //calculate the distance of the route between them
+        let summ = arr.reduce((x,y) => x+y , 0);
+        //if it is not greater than or equal to
+        //the required length of the route
+        //and more than the current maximum route
+        //write the distance to 'result' and exit recursion
+        if (summ <= t && result < summ) result = summ;
+        return;
+      }
+
+      //create a new city in arr and call recursion
+      //for the given combination of cities
+      for (let i = st; i < ls.length; i++){
+        arr.push(ls[i]);
+        recurs(i+1, arr);
+        arr.pop();
+      }
+    };
+
+//calculate the best route
+recurs(0, []);
+
+//return the best route, if any, or null
+return result || null;
+}
+```
+
+###Languages
+
+- English <sup>A1</sup>
+- Russian <sup>native</sup>
+- Ukrainian <sup>native</sup>
