@@ -6,16 +6,16 @@
 
 ### My contact information:
 
-**Phone number &amp; WhatsApp:** [+7 (989) 624-65-78](tel:+79896246578)</br>
-**Telegram:** [algolj](https://t.me/algolj)</br>
-**LinkedIn:** [algolj](https://www.linkedin.com/in/algolj/)</br>
-**Web-site:** [algolj.it](https://algolj.it)</br>
-**E-mail:** [algolj@algolj.it](mailto:algolj@algolj.it)</br>
+**Phone number &amp; WhatsApp:** [+7 (989) 624-65-78](tel:+79896246578)<br>
+**Telegram:** [algolj](https://t.me/algolj)<br>
+**LinkedIn:** [algolj](https://www.linkedin.com/in/algolj/)<br>
+**Web-site:** [algolj.it](https://algolj.it)<br>
+**E-mail:** [algolj@algolj.it](mailto:algolj@algolj.it)<br>
 **Location:** Now I'm in Donetsk ✈️ I want to move soon, but have not yet decided where exactly: Kyiv, Kharkiv, Lviv, Saint Petersburg, Krasnodar, Rostov on Don. There is a Permanent residency in Russia, so there are no problems with worker license.
 
 ### Briefly About Myself
 
-Greetings, my name is Alexander, I am 24 years old. At the moment I work in a family business, but my soul is tempted to work by my master’s degree. Previously, I programmed purely for fun or to complete assignments at university. But I still want to start developing and working in commercial projects. And this is a completely different level of documentation, design, planning and code style. All this interests me very much.<details><summary>Real reasons for my participation in JavaScript / Front-end 2021Q3</summary>Already after a month of successful graduation from the magistracy, something wrong began to happen to me. There was a strong need to help someone simplify math calculations by writing a couple of functions, and I also became addicted to programming streams. I had to go to a qualified physician to find out what the problem was. After I got tested, he told me:
+Greetings, my name is Alexander, I am 24 years old. At the moment I work in a family business, but my soul is tempted to work by my master’s degree. Previously, I programmed purely for fun or to complete assignments at university. But I still want to start developing and working in commercial projects. And this is a completely different level of documentation, design, planning and code style. All this interests me very much.<details>Already after a month of successful graduation from the magistracy, something wrong began to happen to me. There was a strong need to help someone simplify math calculations by writing a couple of functions, and I also became addicted to programming streams. I had to go to a qualified physician to find out what the problem was. After I got tested, he told me:
 
 > -Hmm ... I see such bad analyzes for the second time in my many years of practice.
 
@@ -31,10 +31,10 @@ That’s how I decided to thoroughly study the JavaScript / Frontend 2021Q3 cour
 
 ### Education
 
-| ![red diploma](https://algolj.it/red_small.svg '09.04.04 red diploma 4.83')    | South-Russian State Polytechnic University (Novocherkassk Polytechnic Institute)</br>Computer Software Engineering</br>Master's degree</br><small>2019-2021</small> |
-| ------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![blue diploma](https://algolj.it/blue_small.svg '09.03.04 blue diploma 4.45') | **Donetsk National Technical University (DonNTU)**</br>Computer Software Engineering</br>Bachelor's degree</br><small>2016-2019</small>                             |
-| ![blue diploma](https://algolj.it/blue_small.svg '09.02.02 blue diploma 4.3')  | **Donetsk Technical School of Industrial Automation**</br>Computer networks and telecommunications</br><small>2012-2016</small>                                     |
+| ![red diploma](https://algolj.it/red_small.svg '09.04.04 red diploma 4.83')    | South-Russian State Polytechnic University (Novocherkassk Polytechnic Institute)<br>Computer Software Engineering<br>Master's degree<br><small>2019-2021</small> |
+| ------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![blue diploma](https://algolj.it/blue_small.svg '09.03.04 blue diploma 4.45') | **Donetsk National Technical University (DonNTU)**<br>Computer Software Engineering<br>Bachelor's degree<br><small>2016-2019</small>                             |
+| ![blue diploma](https://algolj.it/blue_small.svg '09.02.02 blue diploma 4.3')  | **Donetsk Technical School of Industrial Automation**<br>Computer networks and telecommunications<br><small>2012-2016</small>                                    |
 
 ### Courses
 
@@ -84,10 +84,10 @@ Of course, even a third of frontend technologies cannot be well known and applie
 
 **JavaScript educational projects only:**
 
-1. Web page with the calculation of estimates of the numerical characteristics of random variables.<details><summary>more detail</summary>Сonstruction of empirical laws of their distribution, statistical testing of the hypothesis about the law of distribution of a random variable using the asymmetry coefficient A and kurtosis E, statistical testing of the hypothesis about the law of distribution of random variables according to Pearson's criterion, statistical testing of the hypothesis about the equality of variances of two normal general populations, and correlation analysis. Used Google Charts and File API in the project. [Link to project.](http://algolj.it/MM)</br></details>
-2. Web page with image processing using Canvas.<details><summary>more detail</summary>Color to grayscale conversion, binarization, conversion to negative, logarithmic filter, mask filtering (noise reduction, noise generation, sharpening and contrast enhancement, low-frequency spatial filtering, median filtering). [Link to the report.](https://disk.yandex.ua/d/b4WYlNkTYr8GGQ)</br></details>
+1. Web page with the calculation of estimates of the numerical characteristics of random variables.<details>Сonstruction of empirical laws of their distribution, statistical testing of the hypothesis about the law of distribution of a random variable using the asymmetry coefficient A and kurtosis E, statistical testing of the hypothesis about the law of distribution of random variables according to Pearson's criterion, statistical testing of the hypothesis about the equality of variances of two normal general populations, and correlation analysis. Used Google Charts and File API in the project. [Link to project.](http://algolj.it/MM)<br></details>
+2. Web page with image processing using Canvas.<details>Color to grayscale conversion, binarization, conversion to negative, logarithmic filter, mask filtering (noise reduction, noise generation, sharpening and contrast enhancement, low-frequency spatial filtering, median filtering). [Link to the report.](https://disk.yandex.ua/d/b4WYlNkTYr8GGQ)<br></details>
 3. Multithreaded Web scraping sites avito.ru, imdb.com using Cheerio and Puppeteer library. Text analysis, search engines technologies and Word2vec libraries[\*](https://disk.yandex.ua/d/Wf95hkPNND1qgw 'Link to the report.').
-4. Calculation of the norm of the product of two square dense matrices of dimension NxN.<details><summary>more detail</summary>In single-threaded and multi-threaded mode, the calculation of the performance of the video card. Used libraries GPU.js and Blas.JS.</br></details>
+4. Calculation of the norm of the product of two square dense matrices of dimension NxN.<details>In single-threaded and multi-threaded mode, the calculation of the performance of the video card. Used libraries GPU.js and Blas.JS.<br></details>
 
 ### Small code from me
 
