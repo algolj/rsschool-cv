@@ -15,18 +15,12 @@
 
 ### Briefly About Myself
 
-Greetings, my name is Alexander, I am 24 years old. At the moment I work in a family business, but my soul is tempted to work by my master’s degree. Previously, I programmed purely for fun or to complete assignments at university. But I still want to start developing and working in commercial projects. And this is a completely different level of documentation, design, planning and code style. All this interests me very much.<details>Already after a month of successful graduation from the magistracy, something wrong began to happen to me. There was a strong need to help someone simplify math calculations by writing a couple of functions, and I also became addicted to programming streams. I had to go to a qualified physician to find out what the problem was. After I got tested, he told me:
-
-> -Hmm ... I see such bad analyzes for the second time in my many years of practice.
-
-In the body, hormones of such groups as: <abbr title='Do a crutch, just to make it work!'>DcJMW</abbr>, <abbr title="I don't know why it works, but it does!">IdkWiWiD</abbr> and <abbr title='Hmm ... Is there a bug in my code or is it in the compiler?'>ITBiMCoC</abbr> My doctor prescribed treatment in the form of 2-3 tasks on Codewars per week, but this only helped to stop the progressive drop in indicators, yet not to get better. Seeing this, he’d said:
-
-> -Things are bad, boy, you won't last half a year at this rate. You need to ... Hell, I didn't think I would ever do this again.
-
-He took a business card <sup>[proof](https://algolj.it/business-cаrd.jpg)</sup> from a drawer and handed it to me.
-
-> -It's some sort of an anonymous programmers club, I think they can help you. Every day on their courses, the tasks become more and more difficult. Only a few will reach the end. I can only wish you good luck.
-
+Greetings, my name is Alexander, I am 24 years old. At the moment I work in a family business, but my soul is tempted to work by my master’s degree. Previously, I programmed purely for fun or to complete assignments at university. But I still want to start developing and working in commercial projects. And this is a completely different level of documentation, design, planning and code style. All this interests me very much.<details>Already after a month of successful graduation from the magistracy, something wrong began to happen to me. There was a strong need to help someone simplify math calculations by writing a couple of functions, and I also became addicted to programming streams. I had to go to a qualified physician to find out what the problem was. After I got tested, he told me:<br>
+-Hmm ... I see such bad analyzes for the second time in my many years of practice.<br>
+In the body, hormones of such groups as: <abbr title='Do a crutch, just to make it work!'>DcJMW</abbr>, <abbr title="I don't know why it works, but it does!">IdkWiWiD</abbr> and <abbr title='Hmm ... Is there a bug in my code or is it in the compiler?'>ITBiMCoC</abbr> My doctor prescribed treatment in the form of 2-3 tasks on Codewars per week, but this only helped to stop the progressive drop in indicators, yet not to get better. Seeing this, he’d said:<br>
+-Things are bad, boy, you won't last half a year at this rate. You need to ... Hell, I didn't think I would ever do this again.<br>
+He took a business card <sup>[proof](https://algolj.it/business-cаrd.jpg)</sup> from a drawer and handed it to me.<br>
+-It's some sort of an anonymous programmers club, I think they can help you. Every day on their courses, the tasks become more and more difficult. Only a few will reach the end. I can only wish you good luck.<br>
 That’s how I decided to thoroughly study the JavaScript / Frontend 2021Q3 course, because I don’t see the other option.</details>
 
 ### Education
@@ -72,7 +66,7 @@ That’s how I decided to thoroughly study the JavaScript / Frontend 2021Q3 cour
 - Git (basic knowledge);
 - SQL (PostgreSQL, SQLite, Access);
 - Java (basic knowledge);
-- Adobe Photoshop, After Effects, Illustrator (here I made diploma icons[\*](#Education)), Lightroom;
+- Adobe Photoshop, After Effects, Illustrator (In this webpage i made diploma icons[\*](#Education)), Lightroom;
 - Figma;
 - Postman (basic knowledge).
 
