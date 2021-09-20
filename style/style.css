@@ -22,6 +22,7 @@
     color: var(--font-color);
   }
 }
+
 body {
   overflow: hidden;
   font-family: 'Roboto', sans-serif;
@@ -47,7 +48,7 @@ body {
   overflow-x: hidden;
 }
 .container-with-y-scroll::-webkit-scrollbar-thumb {
-  display: block;
+  display: none;
   border-radius: 1em;
   background-color: var(--scrollColor);
 }
@@ -360,7 +361,7 @@ body {
   resize: none;
 }
 .messenger-panel__sends::-webkit-scrollbar-thumb {
-  display: block;
+  display: none;
   background-color: var(--font-color);
   border-radius: 0.4em;
 }
@@ -428,6 +429,7 @@ body {
   height: 2em;
   max-height: 4em;
 }
+/* ANIMATION */
 @-webkit-keyframes showMenu {
   from {
     margin-bottom: -4em;
@@ -494,6 +496,7 @@ body {
     opacity: 0;
   }
 }
+
 @media screen and (max-width: 630px), (max-height: 360px) {
   .messenger-panel__menu::before {
     display: none;
@@ -501,6 +504,7 @@ body {
   .messenger-panel__menu {
     margin-right: 0.4em;
   }
+
   .menu__items {
     flex: 1;
     text-align: center;
@@ -519,7 +523,6 @@ body {
   }
   .messenger__code {
     font-size: 0.6em;
-    padding: 0;
   }
   #info_checker:checked ~ .info-container .infobox__text {
     width: 100%;

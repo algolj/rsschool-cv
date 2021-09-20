@@ -22,6 +22,25 @@
     />
     <link rel="stylesheet" href="./style/resetStyle.css" />
     <link rel="stylesheet" href="./style/style.css" />
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/default.min.css"
+    />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
+    <noscript>
+      <style>
+        .messenger-panel__sends::-webkit-scrollbar-thumb,
+        .container-with-y-scroll::-webkit-scrollbar {
+          display: block;
+        }
+        .messenger__message.messenger__code {
+          padding: 0;
+        }
+      </style>
+    </noscript>
   </head>
   <body>
     <div class="container">
@@ -35,6 +54,7 @@
           ></label>
           <div class="header__text">
             <h1 class="text_strong">Oleksandr Holovchenko</h1>
+            <p><small class="timeBoard"></small></p>
           </div>
           <p class="header__icon-board">
             <a href="https://github.com/algolj" target="_blank">
@@ -559,8 +579,8 @@
             </p>
           </div>
           <pre
-            class="messenger__message messenger__message-received"
-          ><code >function chooseBestSum(t, k, ls) {
+            class="codeContainer"
+          ><code class="messenger__message messenger__message-received messenger__code">function chooseBestSum(t, k, ls) {
 //create a variable that chronizes
 //the result of calculations
 let result = 0;
@@ -656,5 +676,13 @@ return result || null;
         </li>
       </menu>
     </div>
+    <audio
+      id="sound1"
+      src="http://carolinegabriel.com/demo/js-keyboard/sounds/046.wav"
+    ></audio>
+    <audio
+      id="sound2"
+      src="http://carolinegabriel.com/demo/js-keyboard/sounds/050.wav"
+    ></audio>
   </body>
 </html>
