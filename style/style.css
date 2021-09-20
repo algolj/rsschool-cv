@@ -345,11 +345,12 @@ body {
   line-height: 0.8em;
   border: var(--font-color) solid 0.15em;
   border-radius: 20%/40%;
-  user-select: none;
   -ms-user-select: none;
   -moz-user-select: none;
   -khtml-user-select: none;
   -webkit-user-select: none;
+  user-select: none;
+  cursor: pointer;
 }
 .messenger-panel__menu::before {
   display: inline-block;
