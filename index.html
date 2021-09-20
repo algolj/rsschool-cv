@@ -22,14 +22,12 @@
     />
     <link rel="stylesheet" href="./style/resetStyle.css" />
     <link rel="stylesheet" href="./style/style.css" />
-    <link
-      rel="stylesheet"
-      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/default.min.css"
-    />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
+    <link rel="stylesheet" href="./style/default.min.css" />
+    <script src="./script/highlight.min.js"></script>
     <script>
       hljs.initHighlightingOnLoad();
     </script>
+    <script src="./script/mainScript.js" defer></script>
     <noscript>
       <style>
         .messenger-panel__sends::-webkit-scrollbar-thumb,
@@ -45,7 +43,7 @@
   <body>
     <div class="container">
       <input id="info_checker" type="checkbox" />
-      <div class="fixed-block-with-content info-container">
+      <aside class="fixed-block-with-content info-container">
         <header class="header">
           <label class="ghost__cheker" for="info_checker"></label>
           <label
@@ -111,7 +109,7 @@
             /></a>
           </p>
         </footer>
-      </div>
+      </aside>
       <main class="container-with-y-scroll messenger">
         <article class="messanger__item" id="contact">
           <h2 class="messenger__message messenger__message-received">
@@ -646,7 +644,7 @@ return result || null;
           placeholder="Write a message..."
         ></textarea>
       </div>
-      <menu class="menu">
+      <nav class="menu">
         <li class="menu__items">
           <a class="menu__link" href="#contact">📞 Сontacts</a>
         </li>
@@ -674,7 +672,7 @@ return result || null;
         <li class="menu__items">
           <a class="menu__link" href="#language">🗣 Languages</a>
         </li>
-      </menu>
+      </nav>
     </div>
     <audio
       id="sound1"
